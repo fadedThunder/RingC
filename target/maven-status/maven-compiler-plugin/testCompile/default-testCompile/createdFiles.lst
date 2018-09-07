@@ -1,0 +1,6 @@
+com\zendesk\interview\tests\AppTest.class
+com\zendesk\interview\tests\TestTicketCreate.class
+com\zendesk\interview\tests\TestTicketList.class
+com\zendesk\interview\tests\RingTest.class
+com\zendesk\interview\tests\TestTicketDelete.class
+com\zendesk\interview\tests\TestTicketComment.class
