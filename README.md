@@ -3,13 +3,13 @@
 
 # Approach
 
-### 1)Used various http libraries.
+### 1) Used various http libraries.
 ### 2) Used Rest Assured libraries.
 ### 3) TestNg
 
 ## The framework has
-### 1)common : com.rinCentral.commom
-### 2)test   : com.rinCentral.test
+### 1) common : com.rinCentral.commom
+### 2) test   : com.rinCentral.test
 
 ## TestBase Class:
 In common package TestBase class contains all the common classes
